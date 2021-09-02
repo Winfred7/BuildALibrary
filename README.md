@@ -1,10 +1,11 @@
 # Build A Library Application
 
-A Libray System to manage library activits
+    A Libray System to manage library activits
 
 ## Introducton
 
-This is a simple library application that create Media instances from a super class. This test demonstrates inheritance in javascript
+    This is a simple library application that create Media instances from a super class. 
+    This test demonstrates inheritance in javascript
 
 ### Table of contents
 
@@ -17,22 +18,22 @@ This is a simple library application that create Media instances from a super cl
 
 ## General infor
    
-   This is a miniature Library system.
+    This is a miniature Library system.
 
 ## Technologies
 
-   This program is create with:
-   * Node.js vs14.16.0
-   * Javascript 
-   * VS Code vs1.58
+  This program is create with:
+  * Node.js vs14.16.0
+  * Javascript 
+  * VS Code vs1.58
 
 ## Setup
 
-To run this program, install node and open the command prompt in the program folder:
+    To run this program, install node and open the command prompt in the program folder:
  
- $ cd ../BuildALibrary
+    $ cd ../BuildALibrary
 
- $ node library.js
+    $ node library.js
 
  ## Status
      First Version completed 
